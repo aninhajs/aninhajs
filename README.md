@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/accounts/login/?next=%2Fjeizeana%2F&source=omni_redirect" target="_blank">
+  <a href="https://www.instagram.com/jeizeana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ana-jeize-silvy-3a24a42b5?originalSubdomain=br" target="_blank">
