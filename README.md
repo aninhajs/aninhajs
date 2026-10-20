@@ -57,8 +57,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aninhajs&color=0077B5&style=flat-square" alt="Profile View Counter" />
-</div>
+
 
 ###
